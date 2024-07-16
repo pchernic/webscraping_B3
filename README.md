@@ -19,6 +19,5 @@ Before you begin, ensure you have met the following requirements:
 - Selenium
 - BeautifulSoup4
 - Pandas
-- Matplotlib
 - ChromeDriver (compatible with your Chrome browser version)
 
